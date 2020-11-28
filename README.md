@@ -1,0 +1,2 @@
+# Yazd-klar-m
+PythonProjects/
